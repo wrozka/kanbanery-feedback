@@ -6,6 +6,6 @@ To set up your project edit configu.ru.
 
 To modify form edit public/bug.html. Fields added to fieldset 'Bug report' will be automatically joined in the description part of Kanbanery ticket. Validation of user input is possible with jquery validation plugin.
 
-Checkout python version on @pybug branch and php version ond @phpbug branch.
+Checkout python version on @pybug branch and php version on @phpbug branch.
 
 Styles and graphics by http://github.com/mariusz
