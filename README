@@ -5,3 +5,5 @@ PHP version requires pecl_http to perform httprequests to kanbanery api.
 To set up your project edit report.php.
 
 To modify form edit public/bug.html. Fields added to fieldset 'Bug report' will be automatically joined in the description part of Kanbanery ticket. Validation of user input is possible with jquery validation plugin.
+
+Styles and graphics by http://github.com/mariusz
