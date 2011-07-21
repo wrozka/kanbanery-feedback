@@ -1,0 +1,7 @@
+Simple Ruby application for reporting bugs directly into kanbanery.
+
+It is a plain rack application.
+
+To set up your project edit configu.ru.
+
+To modify form edit public/bug.html. Fields added to fieldset 'Bug report' will be automatically joined in the description part of Kanbanery ticket. Validation of user input is possible with jquery validation plugin.
