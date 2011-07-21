@@ -1,0 +1,9 @@
+Simple Python application for reporting bugs directly into kanbanery.
+
+Python version is implemented on top of Werkzeug. You can use pip, easy_install, tarball or your os system packager to install it.
+
+To set up your project edit pybug.py
+
+To modify form edit public/bug.html. Fields added to fieldset 'Bug report' will be automatically joined in the description part of Kanbanery ticket. Validation of user input is possible with jquery validation plugin.
+
+Styles and graphics by http://github.com/mariusz
